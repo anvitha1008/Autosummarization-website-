@@ -1,0 +1,22 @@
+body
+{
+	background-image: url("oldpaper-backgroundfairy1.jpg");
+}
+
+h3 
+{
+	font-family: 'Oswald', sans-serif;
+	color: #000000;
+	font-weight: lighter;
+}
+
+.button
+{
+	border-radius: 0;
+	padding: 10px 35px;
+	font-size: 15px;
+	font-family: 'Oswald', sans-serif;
+	color: #000;
+	background: #ffe600;
+}
+
